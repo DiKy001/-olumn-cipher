@@ -1,0 +1,1 @@
+java -jar -Dfile.encoding=UTF8 Lab1.jar
